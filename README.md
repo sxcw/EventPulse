@@ -16,7 +16,7 @@ Event Pulse
 
 # Description
 
-[Event Pulse](https://eventpulse.herokuapp.com) is a social broadcasting app that enables users to find and create spontaneous events happening nearby. Watch a 45-second [demo](https://www.youtube.com/watch?v=cOEqyl28Teg).
+Watch a 45-second [demo](https://www.youtube.com/watch?v=cOEqyl28Teg). [Event Pulse](https://eventpulse.herokuapp.com) is a social broadcasting app that enables users to find and create spontaneous events happening nearby. 
 
   * Users are required to login through Facebook, and then are presented with a map and list of events within a 50 mile radius.
   * Users can click on any individual event to view that event's details and chat with other guests or invite additional guests.
